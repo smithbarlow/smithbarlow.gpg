@@ -20,7 +20,7 @@ Contains all relevant information regarding my [self-hosted services](https://sm
 
 ### SHA2-512 Checksums
 
-- [Personal](https://smithbarlow.net/SHA2-512-HASHES.txt)
+- [Personal](https://smithbarlow.net/SHA512-hashes.txt)
 
 __DOWNLOAD__: *[GNU Privacy Guard](https://gnupg.org/)*
 
